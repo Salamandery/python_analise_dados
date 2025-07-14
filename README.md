@@ -19,6 +19,20 @@
 
 ---
 
+## 📑 Sumário
+
+- [📊 Sobre o Projeto](#-sobre-o-projeto)
+- [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+- [🗂️ Estrutura do Projeto](#️-estrutura-do-projeto)
+- [🧩 Padrões e Boas Práticas](#-padrões-e-boas-práticas)
+- [🚀 Como Executar o Projeto](#-como-executar-o-projeto)
+- [⚙️ Configurações](#️-configurações)
+- [📈 Resultados Esperados](#-resultados-esperados)
+- [📚 Referências](#-referências)
+- [👤 Autor](#-autor)
+
+---
+
 ## 📊 Sobre o Projeto
 
 Este projeto utiliza Python e bibliotecas de análise de dados para explorar e visualizar informações sobre cancelamentos de clientes de uma empresa. O objetivo é fornecer insights que ajudem a empresa a entender e mitigar o churn.
